@@ -4,7 +4,7 @@ const Profile = ({ firstName, lastName, imageURL }) => {
   return (
     <div className="profile">
       <div>
-        <img src={ imageURL } alt="Avatar"></img>
+        <img src={ imageURL } alt="User"></img>
       </div>
       <p>
         { firstName } { lastName }
