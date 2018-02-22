@@ -12,5 +12,5 @@ const Profile = ({ firstName, lastName, imageURL }) => {
     </div>
   )
 }
- 
+
 export default Profile;
